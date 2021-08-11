@@ -6,10 +6,20 @@ Ambiente utilizado para organizar, testar e registrar os projetos voltados para 
 
 Todos os projetos de treino serão nomeados na ordem do alphabeto grego, sendo Alpha o 1º, Beta o 2º, Gamma o 3º e assim por diante.
 
-Siglas de projeto:
+## Siglas de projeto:
 -   SBM (Spring Boot & Maven)
 -   SBG (Spring Boot & Gradle)
 
+<br>
+
+## Recomendações
+-   Utilize uma IDE voltada para o desenvolvimento em Java, como o **IntelliJ IDEA** ou **Eclipse**
+-   Ao carregar um projeto Spring Boot numa IDE, selecione o arquivo **pom.xml** e este se encarregará de subir o projeto.
+
+## Rodar um projeto
+
+Em maven:
+-   `<nomeDoProjeto>` --> Lifecycle --> install;
 
 <br>
 <br>
@@ -28,7 +38,7 @@ Meu primeiro projeto criado em Spring boot. Sua base foi gerada pelo site https:
 
 [![Detalhe](https://img.shields.io/badge/Packaging-Jar-b56d48.svg)](https://shields.io/)
 
-[![Detalhe](https://img.shields.io/badge/Dependência-Spring_Web_|_-f9c067.svg)](https://shields.io/)
+[![Detalhe](https://img.shields.io/badge/Dependências-Spring_Web_|_-f9c067.svg)](https://shields.io/)
 
 <br>
 <br>
