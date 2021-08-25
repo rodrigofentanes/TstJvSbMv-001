@@ -15,8 +15,6 @@ Meu primeiro projeto criado em Spring boot com Maven. Sua base foi gerada pelo s
 -   Utilize uma IDE voltada para o desenvolvimento em Java, como o **IntelliJ IDEA** ou **Eclipse**
 -   Para carregar um projeto Sping Boot numa IDE o ideal é **importar** o arquivo entitulado **pom.xml** (Maven) ou **build-gradle** (Gradle) e este se encarregará de carregar o restante do projeto.
 
-<br>
-
 ## Construir o projeto (build)
 -   `<nomeDoProjeto>`
     -   `Lifecycle`
